@@ -11,7 +11,7 @@ from termcolor import colored, cprint
 # import time
 # import os
 
-ETHAPI = 'key'
+ETHAPI = 'JV2P4D9Y9QGX7E896MQYFDD9XIY7NA43QR'
 BSCAPI = 'key'
 
 while True:    
